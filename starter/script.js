@@ -77,3 +77,8 @@
 // strict mode
 // typeof
 // console.log
+
+let year =+2020;
+if(year===2021){
+ console.log("pandemic over")
+}
